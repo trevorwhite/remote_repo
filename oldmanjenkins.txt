@@ -1,0 +1,3 @@
+Woohoo now we’re typing some code
+
+Gonna make some commits now so that I can upload this bad boy to github
